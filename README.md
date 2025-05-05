@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Rubén Arcos Colchero
 
----
-
 ## 💬 Sobre mí
 
 Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas tecnologías y asumir desafíos que me ayuden a crecer. Disfruto trabajar en equipo, compartir ideas y aportar valor en los proyectos.
