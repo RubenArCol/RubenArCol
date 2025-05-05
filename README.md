@@ -1,7 +1,10 @@
 # 👋 ¡Hola! Soy Rubén Arcos Colchero
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ruben-arcos-colchero-814b99193/)
-[![Email](https://img.shields.io/badge/Email-arcoscolcheroruben@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:arcoscolcheroruben@gmail.com)
+---
+
+## 💬 Sobre mí
+
+Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas tecnologías y asumir desafíos que me ayuden a crecer. Disfruto trabajar en equipo, compartir ideas y aportar valor en los proyectos.
 
 ---
 
@@ -10,9 +13,9 @@
 
 ---
 
-## 💬 Sobre mí
-
-Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas tecnologías y asumir desafíos que me ayuden a crecer. Disfruto trabajar en equipo, compartir ideas y aportar valor en los proyectos.
+# 📬 Contacta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ruben-arcos-colchero-814b99193/)
+[![Email](https://img.shields.io/badge/Email-arcoscolcheroruben@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:arcoscolcheroruben@gmail.com)
 
 ---
 
@@ -26,6 +29,26 @@ Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas t
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌟 Proyecto destacado
+
+[![Workout Appointer](https://img.shields.io/badge/Workout_Appointer-Visit-blueviolet?logo=github&style=for-the-badge)](https://github.com/RubenArCol/workout-appointer)
+
+**Workout Appointer** → Aplicación móvil desarrollada en React Native con backend en Laravel.  
+Permite a los usuarios crear y gestionar entrenamientos personalizados según objetivos físicos.
+
+**Características principales:**
+- Registro de usuarios con metas (fuerza, definición…)
+- Catálogo de ejercicios por grupo muscular y tipo
+- Generación dinámica de entrenamientos personalizados
+- Consulta de entrenamientos vía app o web
+- API RESTful con Laravel para gestionar usuarios y ejercicios
+
+**Tecnologías:**
+- **Frontend:** React Native con Expo, TypeScript, almacenamiento local
+- **Backend:** Laravel 11, MySQL, phpMyAdmin, rutas temporales en `web.php`
 
 ---
 
