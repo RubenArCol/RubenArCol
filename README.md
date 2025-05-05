@@ -19,7 +19,7 @@ Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas t
 
 ## 🚀 Tecnologías y herramientas
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C_language-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
