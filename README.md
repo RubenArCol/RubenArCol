@@ -11,7 +11,8 @@ Soy un apasionado del desarrollo de software, siempre buscando aprender nuevas t
 
 ---
 
-# 📬 Contacta conmigo
+## 📬 Contacta conmigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ruben-arcos-colchero-814b99193/)
 [![Email](https://img.shields.io/badge/Email-arcoscolcheroruben@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:arcoscolcheroruben@gmail.com)
 
